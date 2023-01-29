@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "627467504833",
+    "project_id": "lab5nad",
+    "storage_bucket": "lab5nad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627467504833:android:9f5a812ddaafbe44f75840",
+        "android_client_info": {
+          "package_name": "com.example.findahospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627467504833-36isd7ghehbpfb66n7rrvdntikb50p8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYm2tXoYeCWVvELZhFSfoxUvhUp_0m9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627467504833-36isd7ghehbpfb66n7rrvdntikb50p8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627467504833:android:7bfc8c0c2d927d89f75840",
+        "android_client_info": {
+          "package_name": "com.example.nad_lab5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627467504833-36isd7ghehbpfb66n7rrvdntikb50p8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYm2tXoYeCWVvELZhFSfoxUvhUp_0m9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627467504833-36isd7ghehbpfb66n7rrvdntikb50p8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
